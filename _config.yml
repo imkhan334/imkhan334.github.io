@@ -6,7 +6,6 @@ url: buner
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-theme: jekyll-theme-architect
-remote_theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
